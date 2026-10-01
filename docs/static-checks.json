@@ -1,0 +1,67 @@
+[
+  {
+    "file": "site.js",
+    "check": "node --check",
+    "passed": true
+  },
+  {
+    "file": "admin.js",
+    "check": "node --check",
+    "passed": true
+  },
+  {
+    "file": "site-nav.js",
+    "check": "node --check",
+    "passed": true
+  },
+  {
+    "file": "moodboard.svg",
+    "check": "XML parse",
+    "passed": true
+  },
+  {
+    "file": "database-physical.svg",
+    "check": "XML parse",
+    "passed": true
+  },
+  {
+    "file": "database-logical.svg",
+    "check": "XML parse",
+    "passed": true
+  },
+  {
+    "file": "idef0-context.svg",
+    "check": "XML parse",
+    "passed": true
+  },
+  {
+    "file": "idef0-decomposition.svg",
+    "check": "XML parse",
+    "passed": true
+  },
+  {
+    "file": "reference.css",
+    "check": "Brace balance only, not CSS validation",
+    "passed": true
+  },
+  {
+    "file": "pages.css",
+    "check": "Brace balance only, not CSS validation",
+    "passed": true
+  },
+  {
+    "file": "site.css",
+    "check": "Brace balance only, not CSS validation",
+    "passed": true
+  },
+  {
+    "file": "polish.css",
+    "check": "Brace balance only, not CSS validation",
+    "passed": true
+  },
+  {
+    "file": "index.php",
+    "check": "Unique static element IDs only, not rendered HTML validation",
+    "passed": true
+  }
+]
